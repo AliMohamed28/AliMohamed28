@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimohamed28&show_icons=true&locale=en&layout=compact" alt="alimohamed28" /></p>
 
-<figure><embed src="https://wakatime.com/share/@AliKhattab/6d864f7e-8898-4a02-a7ca-b62b125760f9.svg"></embed></figure>
