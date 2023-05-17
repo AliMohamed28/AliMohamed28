@@ -10,8 +10,8 @@
 
 <p> How to reach me **khattabali106@gmail.com** </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/ali-khattab-246867260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-khattab-246867260" height="30" width="40" /></a>
 </p>
 
