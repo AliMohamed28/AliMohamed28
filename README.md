@@ -22,8 +22,5 @@
  <h3 style="font-size: 24px; font-weight: bold;">Most used languages</h3>
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AliKhattab&layout=compact&theme=dark&hide_title=true" alt="Most Used Programming Languages" style="display: block; margin: auto;" />
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alimohamed28&show_icons=true&locale=en&layout=compact" alt="alimohamed28" /></p>
-  
   </div>
 
