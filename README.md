@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alimohamed28&label=Profile%20views&color=0e75b6&style=flat" alt="alimohamed28" /> </p>
 
-<p>I’m currently working on [Full Stack E-Commerce Website](https://alimohamed28.github.io/code-cafe/)</p>
+<p>I’m currently working on [Developing a chatbot utlizing GPT 3.5 model]</p>
 
 <p> All of my projects are available at [https://alimohamed28.github.io/alikhattab](https://alimohamed28.github.io/alikhattab) </p>
 
