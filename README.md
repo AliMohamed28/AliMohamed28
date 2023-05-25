@@ -5,11 +5,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alimohamed28&label=Profile%20views&color=0e75b6&style=flat" alt="alimohamed28" /> </p>
 
 <p>I’m currently working on [Developing a chatbot utlizing GPT 3.5 model]</p>
-
+  
 <p> All of my projects are available at [https://alimohamed28.github.io/alikhattab](https://alimohamed28.github.io/alikhattab) </p>
 
 <p> How to reach me **khattabali106@gmail.com** </p>
 
+  <figure><embed src="https://wakatime.com/share/@AliKhattab/9cea2fab-c01c-417d-b601-4f4c4b26130c.svg"></embed></figure>
+  
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ali-khattab-246867260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-khattab-246867260" height="30" width="40" /></a>
