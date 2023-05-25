@@ -10,7 +10,7 @@
 
 <p> How to reach me **khattabali106@gmail.com** </p>  
   
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@AliKhattab/f6b098e8-a852-475d-9350-c141b3bdf12b.png" /></a>
+<a href="https://wakatime.com"><img width="50%" height="50%" src="https://wakatime.com/share/@AliKhattab/f6b098e8-a852-475d-9350-c141b3bdf12b.png" /></a>
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
