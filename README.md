@@ -6,7 +6,7 @@
 
 <p>I’m currently working on [Developing a chatbot utlizing GPT 3.5 model]</p>
   
-<p> All of my projects are available at [https://alimohamed28.github.io/alikhattab](https://alimohamed28.github.io/alikhattab) </p>
+<p> All of my projects are available at https://alimohamed28.github.io/alikhattab </p>
 
 <p> How to reach me **khattabali106@gmail.com** </p>  
   
